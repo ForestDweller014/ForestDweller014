@@ -1,11 +1,11 @@
 <div align="center">
 
-# Mohammed Hamzah
+# Mohammad Hamzah
 
 ### Building agentic systems that are **cheaper**, **friendlier**, and **lighter**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Hamzah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-your%40email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhamzah014)
+[![Email](https://img.shields.io/badge/mhamzah014%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhamzah014@gmail.com)
 [![Followers](https://img.shields.io/github/followers/ForestDweller014?style=for-the-badge&logo=github&logoColor=white&color=181717&label=Follow)](https://github.com/ForestDweller014)
 
 </div>
@@ -149,6 +149,6 @@ flowchart LR
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ForestDweller014&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&hide=stars)
 
-*Cheaper. Friendlier. Lighter. Get to work.*
+*Cheaper. Friendlier. Lighter.*
 
 </div>
